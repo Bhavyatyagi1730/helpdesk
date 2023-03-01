@@ -1,4 +1,5 @@
 ﻿using HelpDeskSyste.Models.Database;
+using Service_layer.Class;
 using Service_layer.Implementation;
 using System;
 using System.Collections.Generic;
@@ -6,14 +7,17 @@ using System.Data;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+//using System.Web.UI.WebControls;
+
 namespace HelpDeskSyste.Controllers
 {
     public class HomeController : Controller
     {
-        private ILogin _login;
 
-      
-
+        Login _log=new Login();
+        
+        
+        
         public ActionResult Index()
         {
             return View();
@@ -21,8 +25,8 @@ namespace HelpDeskSyste.Controllers
         [HttpPost]
         public ActionResult Index(Roletable u)
         {
-           
-            var result = _login.GetinfoByUserCredentials(u.Email, u.Password);
+            //Roletable roledata = new Roletable();
+            var result = _log.GetinfoByUserCredentials(u.Email, u.Password);
             if (result != null)
             {
                 if (result.Roletype=="admin")
@@ -40,6 +44,5 @@ namespace HelpDeskSyste.Controllers
 
             return View();
         }
-
-    }
+}
 }

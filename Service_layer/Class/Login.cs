@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Service_layer.Class
 {
-    public class Login
+    public class Login 
     {
 
-        ApidataEntities db1 = new ApidataEntities();
-        public Roletable GetinfoByUserCredentials(string email, string password)
+        ApidataEntities  db1 = new ApidataEntities();
+        public Roletable GetinfoByUserCredentials (string email, string password)
         {
 
 
@@ -22,6 +22,7 @@ namespace Service_layer.Class
             //roletable credentials = roledata.where(Roletable=>)
             return roledata;
         } 
+
 
     }
 }

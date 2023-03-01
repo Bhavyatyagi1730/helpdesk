@@ -18,6 +18,7 @@ namespace HelpDeskSyste.Controllers
         public IHttpActionResult Action()
         {
             List<Models.Database.Roletable> obj = db.Roletables.ToList();
+
             return Ok(obj);
         }
     }

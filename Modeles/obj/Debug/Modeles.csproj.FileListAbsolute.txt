@@ -1,0 +1,12 @@
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modeles\obj\Debug\Modeles.csproj.AssemblyReference.cache
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modeles\obj\Debug\Modeles.csproj.CoreCompileInputs.cache
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modeles\bin\Debug\Modeles.dll.config
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modeles\bin\Debug\Modeles.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modeles\bin\Debug\Modeles.pdb
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modeles\bin\Debug\EntityFramework.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modeles\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modeles\bin\Debug\EntityFramework.xml
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modeles\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modeles\obj\Debug\Modeles.csproj.CopyComplete
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modeles\obj\Debug\Modeles.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modeles\obj\Debug\Modeles.pdb

@@ -1,0 +1,14 @@
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modelss\bin\Debug\net6.0\Modelss.deps.json
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modelss\bin\Debug\net6.0\Modelss.runtimeconfig.json
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modelss\bin\Debug\net6.0\Modelss.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modelss\bin\Debug\net6.0\Modelss.pdb
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modelss\obj\Debug\net6.0\Modelss.csproj.AssemblyReference.cache
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modelss\obj\Debug\net6.0\Modelss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modelss\obj\Debug\net6.0\Modelss.AssemblyInfoInputs.cache
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modelss\obj\Debug\net6.0\Modelss.AssemblyInfo.cs
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modelss\obj\Debug\net6.0\Modelss.csproj.CoreCompileInputs.cache
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modelss\obj\Debug\net6.0\Modelss.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modelss\obj\Debug\net6.0\refint\Modelss.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modelss\obj\Debug\net6.0\Modelss.pdb
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modelss\obj\Debug\net6.0\Modelss.genruntimeconfig.cache
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Modelss\obj\Debug\net6.0\ref\Modelss.dll

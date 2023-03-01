@@ -1,0 +1,15 @@
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Service_layer\obj\Debug\Service_layer.csproj.AssemblyReference.cache
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Service_layer\obj\Debug\Service_layer.csproj.CoreCompileInputs.cache
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Service_layer\bin\Debug\Service_layer.dll.config
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Service_layer\bin\Debug\Service_layer.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Service_layer\bin\Debug\Service_layer.pdb
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Service_layer\bin\Debug\EntityFramework.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Service_layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Service_layer\bin\Debug\Modeles.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Service_layer\bin\Debug\Modeles.pdb
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Service_layer\bin\Debug\Modeles.dll.config
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Service_layer\bin\Debug\EntityFramework.xml
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Service_layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Service_layer\obj\Debug\Service_layer.csproj.CopyComplete
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Service_layer\obj\Debug\Service_layer.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskSyste\Service_layer\obj\Debug\Service_layer.pdb

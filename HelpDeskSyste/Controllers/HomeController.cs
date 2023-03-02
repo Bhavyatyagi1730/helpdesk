@@ -31,7 +31,7 @@ namespace HelpDeskSyste.Controllers
             {
                 if (result.Roletype=="admin")
                 {
-                    return RedirectToAction("Index", "Admin");
+                    return RedirectToAction("Dashboard", "Admin");
                 }
                 else
                 {

@@ -1,0 +1,83 @@
+﻿
+@{
+    ViewBag.Title = "UserDashboard";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous" />
+<link href="~/Content/Navbar.css" rel="stylesheet" />
+
+<body>
+    <header>
+        <div class="nav-wrapper">
+            <div class="logo-container">
+                <img class="logo"
+                     src="https://helpdesk.design/images/helpdesk/DIGITAL%20%28RGB%29/PNG/Logo_RGB_Green.png"
+                     alt="Logo" />
+            </div>
+            <nav>
+                <input class="hidden" type="checkbox" id="menuToggle" />
+                <label class="menu-btn" for="menuToggle">
+                    <div class="menu"></div>
+                    <div class="menu"></div>
+                    <div class="menu"></div>
+                </label>
+                <div class="nav-container">
+                    <ul class="nav-tabs">
+                        <li class="nav-tab">@Html.ActionLink("Dashboard", "Dashboard", "Admin")</li>
+                        <li class="nav-tab">@Html.ActionLink("UserDashboard", "UserDashboard", "Admin")</li>
+                        <li class="nav-tab">Logout</li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <div class="container tableCon">
+        <table class="table table-hover table-bordered">
+            <thead class="table-dark">
+                <tr>
+                    <th scope="col">S.no</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">Department</th>
+                    <th scope="col">Tickets Description</th>
+                    <th scope="col">Status</th>
+                    <th scope="col">Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">1</th>
+                    <td>Mark</td>
+                    <td>mark@gmail.com</td>
+                    <td>Transaction</td>
+                    <td>MoneyDetect</td>
+                    <td> <button type="button" class="btn btn-success">Open</button></td>
+                    <td>
+                        <button type="button" class="btn btn-success">Edit</button>
+                        <button type="button" class="btn btn-danger">Delete</button>
+                    </td>
+                    <!-- <td><button>Edit</button></td>
+                    <td><button>Delete</button></td> -->
+                </tr>
+                <tr>
+                    <th scope="row">2</th>
+                    <td>Jacob</td>
+                    <td>Thornton</td>
+                    <td>fat</td>
+                </tr>
+                <tr>
+                    <th scope="row">3</th>
+                    <td colspan="2">Larry the Bird</td>
+                    <td>twitter</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+  
+
+
+</body>
+
